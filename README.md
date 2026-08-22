@@ -1,4 +1,4 @@
-# DPW -- Exercícios do M00 
+# Projeto DPW Exercícios
 
 👨‍🎓 **Nome:** Daniel José da Silva Neto
 💻 **Ambiente:** Windows 10 + PoweShell 5.1 
