@@ -9,7 +9,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 ```
 
 # Prova de imagem do conflito
-![alt text](image.png)  
+![prova do Conflito](./image.png)  
 
 # Visualizando o Grafo das branches 
 apos realiza o comando: git log --graph --oneline -all
