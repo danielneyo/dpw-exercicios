@@ -1,0 +1,19 @@
+# DPW -- Exercícios do M00 
+
+👨‍🎓 **Nome:** Daniel José da Silva Neto
+💻 **Ambiente:** Windows 10 + PoweShell 5.1 
+
+|  #  | Exercícios  | Evidências | 
+| --- | --- | --- |
+|  1  | Ambiente reprodutível | [evidencias/e1-ambiente.md](evidencias/e1-ambiente.md).[commit inicial](https://github.com/danielneyo/dpw-exercicios/commit/HASH) |
+|  2  | Arqueologia de histórico | [evidencias/e2-arqueologia.md](evidencias/e2-arqueologia.md) | 
+|  3  | Conflito de merge | [evidencias/e3-conflito.md](evidencias/e3-conflito.md) . [commit de merge](.../commit/HASH) . [grafo](.../network) | 
+|  4  | Desfazendo sem pânico | [evidencias/e4-desdazer.md](evidenciasQe4-desfazer.md) . [commit de revert](.../commit/HASH) | 
+|  5  | Diagnóstico | [evidencias/e5-diagnostico.md](evidencias/e5-diagnostico.md) | 
+
+## Como rodar 
+
+```bash 
+pnpm install 
+pnpm verificar 
+```
