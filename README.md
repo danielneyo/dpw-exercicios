@@ -1,4 +1,4 @@
-# DPW -- Exercícios do M00 
+# Execicios de Desenvolvimento WEB
 
 👨‍🎓 **Nome:** Daniel José da Silva Neto
 💻 **Ambiente:** Windows 10 + PoweShell 5.1 
