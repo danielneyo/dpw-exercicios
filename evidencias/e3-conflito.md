@@ -35,6 +35,7 @@ apos realiza o comando: git log --graph --oneline -all
 
 # Link Permanente 
 [commit de resolução do conflito](https://github.com/danielneyo/dpw-exercicios/commit/813b804eff71bd4f231454ba2095222928c4428f)
+
 [Grafo do Repositorio(Network)](https://github.com/danielneyo/dpw-exercicios/network)
 
 # Respondendo a Pergunta 
